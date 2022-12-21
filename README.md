@@ -9,4 +9,8 @@
 <p>&emsp;   When you open the game the first thing to see in a greeting message that says "Hello" and your name, then you enter the menu where you can select using the joystick to start the game, to see the leaderboard, to enter the settings, to enter the "about" section where you see details about the developer or to enter in the "how to play" section. The enter action is made by click on the joystick and the back action is made with a left move.  
 <p>&emsp;   In the settings section you can edit your name, change the difficulty, change the brightness of the LCD and the LED matrix, put the game on mute and make a factory reset(by moving the joystick to the right 3 times).  </p>
 <p>&emsp;   Codewise, all of that is made by running an infinite loop with a global state. At every iteration the program checks what is the current state(game, menu, settings etc.) and runs a specific function for that state. You can change the state with different actions(ex: click on play gets you from menu to game) and when you perform those actions the global variable state changes and the program will be directed to another function at the next iteration. The game feels fluid because there are more then 100 iteration every second.  </p>
+ <p align="center">
+  <img src="assets/alaala_2.jpg" alt="Alaala" height="500">
+ </p>
+ <p>&emsp; The requirements for this project can be found <a href="assets/requirements .pdf" class="image fit" >here</a>.</p>
 </body>
