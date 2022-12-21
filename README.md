@@ -12,5 +12,5 @@
  <p align="center">
   <img src="assets/alaala_2.jpg" alt="Alaala" height="500">
  </p>
- <p>&emsp; The requirements for this project can be found <a href="assets/requirements .pdf" class="image fit" >here</a>.</p>
+ <p>&emsp; The requirements for this project can be found <a href="assets/requirements .pdf" class="image fit" >here</a> and there is a <a href=https://youtu.be/2a9stHlteWE>link</a> to a video where I use the game.</p>
 </body>
